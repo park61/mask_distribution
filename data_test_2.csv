@@ -1,0 +1,3 @@
+location_id,address_1,address_2,address_3,n_pharmacies,n_young,n_adults,n_elders,intensity
+jongro,1,1,1,5,402,180,20,0.656475507
+jung,1,1,2,3,530,70,30,0.766948654
